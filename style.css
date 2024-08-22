@@ -169,12 +169,12 @@ background-color: rgb(18, 17, 17);
     color: white;
 }
 
-.faq-header {
+/* .faq-header {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
     text-align: center;
-}
+} */
 
 .faq-item {
     background-color: #222;
